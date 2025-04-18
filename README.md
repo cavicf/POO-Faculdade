@@ -1,6 +1,6 @@
 # 👩‍💻 Trabalhos de Programação Orientada a Objetos - POO
 
-Este repositório reúne os trabalhos desenvolvidos ao longo da disciplina de **Programação Orientada a Objetos (POO)** da **Universidade Federal de Itajubá (UNIFEI)**, ministrada pelo professor **Laercio Baldochi**.  
+Este repositório reúne os trabalhos e exercícios desenvolvidos ao longo da disciplina de **Programação Orientada a Objetos (POO)** da **Universidade Federal de Itajubá (UNIFEI)**, ministrada pelo professor **Laercio Baldochi**.  
 Todos os projetos foram implementados utilizando a linguagem **Python**, com foco na aplicação prática dos conceitos teóricos estudados em sala de aula.
 
 ---
